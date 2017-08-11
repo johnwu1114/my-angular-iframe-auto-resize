@@ -21,13 +21,13 @@
     "core-js": "^2.4.1",
     "rxjs": "^5.4.0",
     "systemjs": "^0.20.13",
-    "tsc": "^1.20150623.0",
     "zone.js": "^0.8.12"
   },
   "devDependencies": {
     "@types/jasmine": "^2.5.51",
-    "@types/node": "^7.0.29", 
+    "@types/node": "^8.0.20",
     "lite-server": "^2.3.0",
+    "tsc": "^1.20150623.0",
     "typescript": "^2.3.4"
   }
 }

@@ -1,13 +1,14 @@
 This repository is sample code for Angular 4 (Angular 2) SPA.  
 Use the Visual Studio Code to development.  
 
-# Angular 4 教學 - 從頭開始
+# Angular 4 教學 - iframe 自動調整大小
 
-有不只一位前端工程師問我，為什麼要用 Visual Studio 2017 做為 Angular 4 教學工具，他們又不寫 .NET，所以我重新改用 Visual Studio Code 來做為 Angular 4 的開發工具。  
-本篇將介紹如何開始撰寫 Angular 4 (Angular 2)，包含各項套件的安裝說明及相依關係。
+在網頁新舊版本交界期，`iframe` 算是蠻常用的手法，在 Angular 4 (Angular 2) 的 SPA 頁面中，利用 `iframe` 插入舊版網頁，使系統整體感一致。  
+`iframe` 的寬高大小又不能固定不變，太小會留下很多空白，太大會使內外頁都產生 Scrollbar。  
+本篇將介紹如何讓 `iframe` 在  Angular 的 SPA 頁面中，隨著視窗自動調整大小。  
 
 Blog：  
-[Angular 4 教學 - 從頭開始](https://blog.johnwu.cc/article/angular-4-教學-從頭開始.html)  
+[Angular 4 教學 - iframe 自動調整大小](https://blog.johnwu.cc/article/angular-4-iframe-auto-resize.html)  
 
 ## 說明
 
